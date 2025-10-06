@@ -1,0 +1,5 @@
+QMAKE_PRL_TARGET = libqtvectorcanbus.a
+QMAKE_PRL_CONFIG = static
+QMAKE_PRL_VERSION = 6.8.2
+QMAKE_PRL_LIBS = $$[QT_INSTALL_LIBS]/libQt6SerialBus.a $$[QT_INSTALL_LIBS]/libQt6Network.a -lbrotlidec -lbrotlicommon -ldnsapi -liphlpapi -lsecur32 -lwinhttp -lssl -lcrypto -lcrypt32 -lws2_32 -lgdi32 -lcrypt32 $$[QT_INSTALL_LIBS]/libQt6SerialPort.a $$[QT_INSTALL_LIBS]/libQt6Core.a -lz -lsynchronization -lmpr -luserenv -lauthz -lkernel32 -lnetapi32 -lole32 -lshell32 -luser32 -luuid -lversion -lwinmm -lws2_32 -lb2 -lpcre2-16 -ladvapi32 -lsetupapi
+QMAKE_PRL_LIBS_FOR_CMAKE = $$[QT_INSTALL_LIBS]/libQt6SerialBus.a;$$[QT_INSTALL_LIBS]/libQt6Network.a;-lbrotlidec;-lbrotlicommon;-ldnsapi;-liphlpapi;-lsecur32;-lwinhttp;-lssl;-lcrypto;-lcrypt32;-lws2_32;-lgdi32;-lcrypt32;$$[QT_INSTALL_LIBS]/libQt6SerialPort.a;$$[QT_INSTALL_LIBS]/libQt6Core.a;-lz;-lsynchronization;-lmpr;-luserenv;-lauthz;-lkernel32;-lnetapi32;-lole32;-lshell32;-luser32;-luuid;-lversion;-lwinmm;-lws2_32;-lb2;-lpcre2-16;-ladvapi32;-lsetupapi

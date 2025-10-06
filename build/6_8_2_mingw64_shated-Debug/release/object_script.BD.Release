@@ -1,0 +1,13 @@
+release/dialog.o
+release/dialogbg.o
+release/dialogdocprint.o
+release/dialogsotr.o
+release/dialogvs.o
+release/main.o
+release/mainwindow.o
+release/moc_dialog.o
+release/moc_dialogbg.o
+release/moc_dialogdocprint.o
+release/moc_dialogsotr.o
+release/moc_dialogvs.o
+release/moc_mainwindow.o

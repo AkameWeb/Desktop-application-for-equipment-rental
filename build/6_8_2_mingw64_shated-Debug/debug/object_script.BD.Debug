@@ -1,0 +1,13 @@
+debug/dialog.o
+debug/dialogbg.o
+debug/dialogdocprint.o
+debug/dialogsotr.o
+debug/dialogvs.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_dialog.o
+debug/moc_dialogbg.o
+debug/moc_dialogdocprint.o
+debug/moc_dialogsotr.o
+debug/moc_dialogvs.o
+debug/moc_mainwindow.o
